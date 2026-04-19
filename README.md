@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/johnn600">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Always+Learning+New+Things;Junior+Software+Developer;Code–Play–Listen–Go" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Always+Learning+New+Things;Junior+Software+Developer;Code-Play-Listen-Go" alt="Typing SVG" />
   </a>
 </p>
 
