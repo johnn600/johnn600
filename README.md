@@ -1,14 +1,7 @@
-<table width="100%">
-  <tr>
-    <td align="left">
-      <h1>Hi there 👋</h1>
-    </td>
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=johnn600&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+# Hi there 👋
+</div>
 
 <p align="center">
   <a href="https://github.com/johnn600">
@@ -75,6 +68,10 @@ An Information Technology professional aiming to improve their skills and contri
   <a href="https://www.linkedin.com/in/johnrey-vilbar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=johnn600&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 </div>
